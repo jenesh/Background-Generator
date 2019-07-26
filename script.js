@@ -20,7 +20,7 @@ function currentGradient () {
 //Color picker to change the background
 function setGradient() {
 	body.style.background = 
-	"linear-gradient(to right," +
+	"linear-gradient(to right, rgb(" +
 	color1.value +
 	", " +
 	color2.value +
